@@ -1,3 +1,12 @@
 # intellij .iml file, .idea folder
 *.iml
 *.idea
+
+# java configuration
+*/src/META-INF/
+*/src/main/java/META-INF/
+bin/
+target/
+.classpath
+.project
+.DS_Store
